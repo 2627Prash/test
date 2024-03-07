@@ -1,1 +1,7 @@
  I'm a rockstar
+
+to see if prashant.txt file is present in folder trail7
+if not then create file
+
+edit prashant.txt with vim 
+and save the file and display the content using cat command.
